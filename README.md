@@ -1,6 +1,3 @@
-# File-Encryption-Decryption-Tool
-A real-world Python tool to securely encrypt and decrypt text-based files using a secret key with the cryptography library. Includes features like auto-folder management, original file deletion, and simple CLI-based workflow.
-
 # 🔐 File Encryption & Decryption Tool (Python + Cryptography)
 
 This is a real-world Python tool to **securely encrypt and decrypt files** using a secret key and the `cryptography` library.
